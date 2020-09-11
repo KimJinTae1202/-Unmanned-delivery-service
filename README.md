@@ -2,6 +2,7 @@
 Raspberry Pi & Android develop & JSP Web Server Application<br>
 - email address : jintea1202@gmail.com <br>
 - Demo Video : https://youtu.be/jVL5jR0zWbM
+- PPT : https://www.slideshare.net/slideshow/embed_code/key/ypBu6rf1k0ChKP
 
 ## Introduction
 This project implements delivery services without face-to-face contact with the courier.
@@ -27,10 +28,6 @@ This project implements delivery services without face-to-face contact with the 
 - Android Developer : https://developer.android.com/?hl=ko
 
 ## PPT Screenshots
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/ypBu6rf1k0ChKP" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> 
-<div style="margin-bottom:5px"> 
- 
-
 <img width="700" src="https://user-images.githubusercontent.com/62741210/92698975-fed92680-f387-11ea-895c-697ceb8f9731.PNG">
 <img width="700" src="https://user-images.githubusercontent.com/62741210/92698978-ff71bd00-f387-11ea-93f7-5b47105ebd04.PNG">
 <img width="700" src="https://user-images.githubusercontent.com/62741210/92698979-000a5380-f388-11ea-8d1b-d5ba33143d1c.PNG">
