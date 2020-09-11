@@ -25,7 +25,7 @@ This project implements delivery services without face-to-face contact with the 
 
 ## API
 - Android Developer : https://developer.android.com/?hl=ko
-
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/ypBu6rf1k0ChKP" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/ssuser67d471/ummaned-delivery" title="Ummaned delivery" target="_blank">Ummaned delivery</a> </strong> from <strong><a href="https://www.slideshare.net/ssuser67d471" target="_blank">ssuser67d471</a></strong> </div>
 ## PPT Screenshots
 
 <img width="700" src="https://user-images.githubusercontent.com/62741210/92698975-fed92680-f387-11ea-895c-697ceb8f9731.PNG">
